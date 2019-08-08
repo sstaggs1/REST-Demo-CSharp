@@ -1,0 +1,9 @@
+C:\DevRepo\bbDevRepo\REST-Demo-CSharp\REST-Demo-CSharp\bin\Debug\netstandard2.0\REST-Demo-CSharp.deps.json
+C:\DevRepo\bbDevRepo\REST-Demo-CSharp\REST-Demo-CSharp\bin\Debug\netstandard2.0\REST-Demo-CSharp.dll
+C:\DevRepo\bbDevRepo\REST-Demo-CSharp\REST-Demo-CSharp\obj\Debug\netstandard2.0\REST-Demo-CSharp.csprojAssemblyReference.cache
+C:\DevRepo\bbDevRepo\REST-Demo-CSharp\REST-Demo-CSharp\obj\Debug\netstandard2.0\REST-Demo-CSharp.csproj.CoreCompileInputs.cache
+C:\DevRepo\bbDevRepo\REST-Demo-CSharp\REST-Demo-CSharp\obj\Debug\netstandard2.0\REST-Demo-CSharp.AssemblyInfoInputs.cache
+C:\DevRepo\bbDevRepo\REST-Demo-CSharp\REST-Demo-CSharp\obj\Debug\netstandard2.0\REST-Demo-CSharp.AssemblyInfo.cs
+C:\DevRepo\bbDevRepo\REST-Demo-CSharp\REST-Demo-CSharp\bin\Debug\netstandard2.0\REST-Demo-CSharp.pdb
+C:\DevRepo\bbDevRepo\REST-Demo-CSharp\REST-Demo-CSharp\obj\Debug\netstandard2.0\REST-Demo-CSharp.dll
+C:\DevRepo\bbDevRepo\REST-Demo-CSharp\REST-Demo-CSharp\obj\Debug\netstandard2.0\REST-Demo-CSharp.pdb
