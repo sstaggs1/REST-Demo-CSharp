@@ -97,27 +97,27 @@ namespace REST_Demo_CSharp
                 case ("--datasource"):
                 case ("-d"):
                     Console.WriteLine("Datasource");
-                    bool result = await DoDatasource(operations);
+                    _ = await DoDatasource(operations);
                     break;
                 case ("--term"):
                 case ("-t"):
-                    result = await DoTerm(operations);
+                    _ = await DoTerm(operations);
                     break;
                 case ("--course"):
                 case ("-c"):
-                    result = await DoCourse(operations);
+                    _ = await DoCourse(operations);
                     break;
                 case ("--user"):
                 case ("-u"):
-                    result = await DoUser(operations);
+                    _ = await DoUser(operations);
                     break;
                 case ("--membership"):
                 case ("-m"):
-                    result = await DoMembership(operations);
+                    _ = await DoMembership(operations);
                     break;
                 case ("--all"):
                 default:
-                    result = await DoAll();
+                    _ = await DoAll();
                     break;
 
             }
@@ -225,7 +225,7 @@ namespace REST_Demo_CSharp
                 Console.WriteLine("doCourse(): Token=" + token.ToString());
             }
 
-            CourseService courseService = new CourseService(token);
+            var courseService = new CourseService(token);
 
             if (operations.HasFlag(Operations.C))
             {

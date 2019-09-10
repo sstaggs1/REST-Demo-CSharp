@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\DevRepo\\bbDevRepo\\REST-Demo-CSharp\\REST-Demo-CSharp\\REST-Demo-CSharp.csproj": {}
+  },
+  "projects": {
+    "C:\\DevRepo\\bbDevRepo\\REST-Demo-CSharp\\REST-Demo-CSharp\\REST-Demo-CSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DevRepo\\bbDevRepo\\REST-Demo-CSharp\\REST-Demo-CSharp\\REST-Demo-CSharp.csproj",
+        "projectName": "REST-Demo-CSharp",
+        "projectPath": "C:\\DevRepo\\bbDevRepo\\REST-Demo-CSharp\\REST-Demo-CSharp\\REST-Demo-CSharp.csproj",
+        "packagesPath": "C:\\Users\\a1840325\\.nuget\\packages\\",
+        "outputPath": "C:\\DevRepo\\bbDevRepo\\REST-Demo-CSharp\\REST-Demo-CSharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\a1840325\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "Nito.AsyncEx": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
